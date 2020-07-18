@@ -1,0 +1,29 @@
+﻿<Window x:Class="Pasuwado.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pasuwado"
+        mc:Ignorable="d"
+        Title="Pasuwado" Background="#FFF0F0F0" Foreground="Black" OpacityMask="Black" BorderBrush="Black" Width="1000" d:DesignHeight="469" Height="600" WindowStartupLocation="CenterScreen" Topmost="True" WindowState="Maximized" FontFamily="Arial Rounded MT Bold" Icon="Pasuwado Icon.png">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="307*"/>
+            <ColumnDefinition Width="685*"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle StrokeThickness="0">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FF1A4DFB"/>
+                    <GradientStop Color="#FF4732A4" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="58,494,0,0" VerticalAlignment="Top" Width="188" Height="46"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="58,395,0,0" VerticalAlignment="Top" Width="188" Height="46"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="58,290,0,0" VerticalAlignment="Top" Width="188" Height="46"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="58,183,0,0" VerticalAlignment="Top" Width="188" Height="46"/>
+        <Image HorizontalAlignment="Left" Height="238" VerticalAlignment="Top" Width="240" Margin="32,-28,0,0" Source="Paswuado.png"/>
+
+    </Grid>
+</Window>

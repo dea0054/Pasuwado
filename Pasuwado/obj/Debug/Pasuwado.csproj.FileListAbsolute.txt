@@ -1,0 +1,15 @@
+C:\Users\Harris\OneDrive\Mildura Senior College\Year 12\Software Development\Pasuwado\Pasuwado\bin\Debug\Pasuwado.exe.config
+C:\Users\Harris\OneDrive\Mildura Senior College\Year 12\Software Development\Pasuwado\Pasuwado\bin\Debug\Pasuwado.exe
+C:\Users\Harris\OneDrive\Mildura Senior College\Year 12\Software Development\Pasuwado\Pasuwado\bin\Debug\Pasuwado.pdb
+C:\Users\Harris\OneDrive\Mildura Senior College\Year 12\Software Development\Pasuwado\Pasuwado\obj\Debug\Pasuwado.csprojAssemblyReference.cache
+C:\Users\Harris\OneDrive\Mildura Senior College\Year 12\Software Development\Pasuwado\Pasuwado\obj\Debug\MainWindow.g.cs
+C:\Users\Harris\OneDrive\Mildura Senior College\Year 12\Software Development\Pasuwado\Pasuwado\obj\Debug\App.g.cs
+C:\Users\Harris\OneDrive\Mildura Senior College\Year 12\Software Development\Pasuwado\Pasuwado\obj\Debug\Pasuwado_MarkupCompile.cache
+C:\Users\Harris\OneDrive\Mildura Senior College\Year 12\Software Development\Pasuwado\Pasuwado\obj\Debug\Pasuwado_MarkupCompile.lref
+C:\Users\Harris\OneDrive\Mildura Senior College\Year 12\Software Development\Pasuwado\Pasuwado\obj\Debug\MainWindow.baml
+C:\Users\Harris\OneDrive\Mildura Senior College\Year 12\Software Development\Pasuwado\Pasuwado\obj\Debug\Pasuwado.g.resources
+C:\Users\Harris\OneDrive\Mildura Senior College\Year 12\Software Development\Pasuwado\Pasuwado\obj\Debug\Pasuwado.Properties.Resources.resources
+C:\Users\Harris\OneDrive\Mildura Senior College\Year 12\Software Development\Pasuwado\Pasuwado\obj\Debug\Pasuwado.csproj.GenerateResource.cache
+C:\Users\Harris\OneDrive\Mildura Senior College\Year 12\Software Development\Pasuwado\Pasuwado\obj\Debug\Pasuwado.csproj.CoreCompileInputs.cache
+C:\Users\Harris\OneDrive\Mildura Senior College\Year 12\Software Development\Pasuwado\Pasuwado\obj\Debug\Pasuwado.exe
+C:\Users\Harris\OneDrive\Mildura Senior College\Year 12\Software Development\Pasuwado\Pasuwado\obj\Debug\Pasuwado.pdb
